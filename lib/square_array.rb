@@ -3,9 +3,9 @@ def square_array(array)
   
   numbers = [1,4,3]
   
-square_array(numbers)
+square_array(numbers) 
   
-def new_numbers = [1,4,8,6]
+  new_numbers = [1,4,8,6]
   
   square_array(new_numbers)
 end
